@@ -1,0 +1,4 @@
+f:\libraries\amr\documents\visual studio 2010\Projects\TestApp\TestApp\bin\TestApp.dll
+f:\libraries\amr\documents\visual studio 2010\Projects\TestApp\TestApp\bin\TestApp.pdb
+f:\libraries\amr\documents\visual studio 2010\Projects\TestApp\TestApp\obj\Debug\TestApp.dll
+f:\libraries\amr\documents\visual studio 2010\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
